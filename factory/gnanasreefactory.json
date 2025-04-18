@@ -1,0 +1,9 @@
+{
+	"name": "gnanasreefactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ead63d0-b534-4e97-844b-ec3a186662ac",
+		"tenantId": "26a83653-be2d-4df7-a07c-edc9f3868d2b"
+	}
+}
